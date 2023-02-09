@@ -1,1 +1,1 @@
-Task 16. Clean Emacs
+Task 18. Life is a series of commas, not periods
