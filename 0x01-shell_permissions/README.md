@@ -1,1 +1,1 @@
- A script without commas that adds execution permission to the owner, the group owner and the other users, to the file hello
+A script without commas that sets the permission to the file hello as follows:owner and group no permissions at all and other users all permissions
