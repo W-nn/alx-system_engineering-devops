@@ -1,1 +1,1 @@
- A script that creates a new local variable,name:BEST and value:School
+A script that creates a new global variable, name:BEST and value:School
