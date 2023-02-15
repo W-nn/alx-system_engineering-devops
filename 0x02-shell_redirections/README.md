@@ -1,1 +1,1 @@
-A script that displays all users and their home directories, sorted by users based on the /etc/passwd file
+A command that finds all empty files and directories in the current directory and all sub-directories. Only the names of the files and directories should be displayed (not the entire path). Hidden files should be listed, one file name per line
